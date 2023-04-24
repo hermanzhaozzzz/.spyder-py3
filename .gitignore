@@ -6,6 +6,9 @@
 # spyder
 **/.spyproject/
 **/lsp_logs/
+config/backups/
+config/transient.ini
+plugins/terminal/backups/
 workingdir
 history*.py
 onlinehelp
